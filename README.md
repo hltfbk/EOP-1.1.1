@@ -8,4 +8,3 @@ Wiki link on the right menu will drive you through all the EOP features.
   
   
 EOP project team
-------
