@@ -7,4 +7,4 @@ Wiki link on the right menu will drive you through all the EOP features.
   
   
   
-__EOP project team__
+_EOP project team_
